@@ -34,3 +34,5 @@ Describe any challenges encountered while building the app.
 Error occur is the very last step after installed Cocoapods. 
 Application build failed due to Segment 11 error.
 The application is at least 80% build successed.
+Due to build failed, unable to get gif.
+
