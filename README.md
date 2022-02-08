@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
 - [x] (5pts) User can view and scroll through a list of movies now playing in theaters.
-- [ ] (3pts) User can view the movie poster image for each movie.
+- [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 
-<img src="https://recordit.co/CPRlu0CnFv.gif" width=250><br>
+<img src="https://recordit.co/nS4xHYdR0B.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
@@ -35,4 +35,6 @@ Error occur is the very last step after installed Cocoapods.
 Application build failed due to Segment 11 error.
 The application is at least 80% build successed.
 Due to build failed, unable to get gif.
+
+Problem fixed
 
